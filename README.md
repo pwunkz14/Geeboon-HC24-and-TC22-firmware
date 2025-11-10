@@ -1,6 +1,6 @@
 # Geeboon Solder Station Firmware Update Guide
 
-This guide provides step-by-step instructions for updating the firmware on Geeboon solder stations (**TC22**, **HC24**, **TA305**, **HA310**) using a **Windows PC**. Firmware updates fix bugs, tune algorithms, and add features (e.g., v1.27 for HC24/TC22 reduces fan noise with T245 irons and improves temperature overshoot).
+This guide provides step-by-step instructions for updating the firmware on Geeboon solder stations (**TC22**, **HC24**, **TA305**, **HA310**) using a **Windows PC**. 
 
 > [!IMPORTANT]  
 > Use a **USB-C cable that supports both power and data transfer**.  
