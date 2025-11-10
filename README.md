@@ -1,3 +1,6 @@
+*Note: I am not the owner/developer, it's just simple guide with all information jointly in one place!
+
+
 # Geeboon Solder Station Firmware Update Guide
 
 This guide provides step-by-step instructions for updating the firmware on Geeboon solder stations (**TC22**, **HC24**, **TA305**, **HA310**) using a **Windows PC**. 
