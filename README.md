@@ -131,3 +131,5 @@ text### 5. Complete the Update
 🤝 Contact
 
 [Instagram](https://www.instagram.com/3lectro.crashvibes)
+
+<meta name="google-site-verification" content="r0MrzjOPKeeu-vfNBldgRcG-hBQmZ-Nkxe-RLlOvr3E" />
