@@ -30,7 +30,7 @@ This guide provides step-by-step instructions for updating the firmware on Geebo
 > [Geeboon HA310 (350W)](https://s.click.aliexpress.com/e/_c3HQJADl)<br>
 > [Geeboon TA305 (150W)](https://s.click.aliexpress.com/e/_c4rsrmb1)<br>
 > [Geeboon SDC02](https://s.click.aliexpress.com/e/_c4T9GRHt).
-> 
+> [Geeboon SDC03](https://s.click.aliexpress.com/e/_c3aboGQ5)
 
 ---
 
