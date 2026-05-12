@@ -118,6 +118,7 @@ text### 5. Complete the Update
 | `GEEBOON-MSD` missing/duplicated      | Replug; duplicates are safe—use first. |
 | Transfer fails/freezes                | Re-download/extract; ensure no file corruption. |
 | Post-update errors                    | Revert to previous `.bin`; contact Geeboon support. |
+| The update freezes and doesn't recover on power cycle | Power-off the station. Hold the MENU + ESC (TA305 or HA310) or the knob (TC22 or HC24) while powering on to enter recovery mode. Try uploading the firmware again. (Confirmed on TA305) |
 
 ---
 
